@@ -1,0 +1,10 @@
+C:\Projects\SecurityScreensaver\SecurityScreensaver\obj\Debug\SecurityScreensaver.csproj.AssemblyReference.cache
+C:\Projects\SecurityScreensaver\SecurityScreensaver\obj\Debug\SecurityScreensaver.Properties.Resources.resources
+C:\Projects\SecurityScreensaver\SecurityScreensaver\obj\Debug\SecurityScreensaver.ScreensaverForm.resources
+C:\Projects\SecurityScreensaver\SecurityScreensaver\obj\Debug\SecurityScreensaver.csproj.GenerateResource.cache
+C:\Projects\SecurityScreensaver\SecurityScreensaver\obj\Debug\SecurityScreensaver.csproj.CoreCompileInputs.cache
+C:\Projects\SecurityScreensaver\SecurityScreensaver\bin\Debug\SecurityScreensaver.exe.config
+C:\Projects\SecurityScreensaver\SecurityScreensaver\bin\Debug\SecurityScreensaver.exe
+C:\Projects\SecurityScreensaver\SecurityScreensaver\bin\Debug\SecurityScreensaver.pdb
+C:\Projects\SecurityScreensaver\SecurityScreensaver\obj\Debug\SecurityScreensaver.exe
+C:\Projects\SecurityScreensaver\SecurityScreensaver\obj\Debug\SecurityScreensaver.pdb

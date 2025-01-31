@@ -1,0 +1,10 @@
+C:\Projects\FileDecryptor\FileDecryptor\bin\Debug\FileDecryptor.exe.config
+C:\Projects\FileDecryptor\FileDecryptor\bin\Debug\FileDecryptor.exe
+C:\Projects\FileDecryptor\FileDecryptor\bin\Debug\FileDecryptor.pdb
+C:\Projects\FileDecryptor\FileDecryptor\obj\Debug\FileDecryptor.csproj.AssemblyReference.cache
+C:\Projects\FileDecryptor\FileDecryptor\obj\Debug\FileDecryptor.DecryptForm.resources
+C:\Projects\FileDecryptor\FileDecryptor\obj\Debug\FileDecryptor.Properties.Resources.resources
+C:\Projects\FileDecryptor\FileDecryptor\obj\Debug\FileDecryptor.csproj.GenerateResource.cache
+C:\Projects\FileDecryptor\FileDecryptor\obj\Debug\FileDecryptor.csproj.CoreCompileInputs.cache
+C:\Projects\FileDecryptor\FileDecryptor\obj\Debug\FileDecryptor.exe
+C:\Projects\FileDecryptor\FileDecryptor\obj\Debug\FileDecryptor.pdb
